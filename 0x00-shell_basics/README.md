@@ -8,7 +8,7 @@
 
 - Fifth Script is in file 4-listmorefiles and it displays currect directory content with the hidden files in a long format.
 
-Sixth Script is in file 5-listfilesdigitonly and it displays current directory content with the hidden files in a long format with user and goup ids displayes numerically.
+- Sixth Script is in file 5-listfilesdigitonly and it displays current directory content with the hidden files in a long format with user and goup ids displayes numerically.
 
 - Seventh Script is in file 6-firstdirectory and it creates a directory named my_first_directory in /tmp/ directory.
 
@@ -21,3 +21,5 @@ Sixth Script is in file 5-listfilesdigitonly and it displays current directory c
 - Eleventh Script is in file 10-back and it changes the working directory to the previous one.
 
 - Twelfth Script is in file 11-lists and it lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+
+- Thirteenth Script is in file 12-file_type and it prints the type of the file named iamafile which is in /tmp directory.
