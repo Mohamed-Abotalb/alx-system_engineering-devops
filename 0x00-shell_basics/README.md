@@ -35,3 +35,5 @@
 - Second Script is in file 101-clean_emacs and it deletes all files in the current working directory that end with the character ~.
 
 - Third Script is in file 102-tree and it creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
+- Fourth Script is in file 103-commas and it lists all the files and directories of the current directory, separated by commas (,).
