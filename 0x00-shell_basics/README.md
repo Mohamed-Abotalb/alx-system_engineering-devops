@@ -5,3 +5,5 @@ Second Script is in file 1-listit and it returns the files and directories in th
 Third Script is in file 2-bring_me_home and it changes the working directory to the home directory.
 
 Fourth Script is in file 3-listfile and it displays current directory content in a long format.
+
+Fifth Script is in file 4-listmorefiles and it displays currect directory content with the hidden files in a long format.
