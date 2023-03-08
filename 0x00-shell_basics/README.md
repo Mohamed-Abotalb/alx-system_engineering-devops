@@ -1,3 +1,4 @@
+## Basic Parts of the Task
 - First Script is in file 0-current_working_directory and it returns the current working directory.
 
 - Second Script is in file 1-listit and it returns the files and directories in the current working directory.
@@ -30,3 +31,5 @@
 
 ## Advanced Parts of the Task
 - First Script is in file 100-lets_move and it moves all files beginning with an uppercase letter to the directory /tmp/u.
+
+- Second Script is in file 101-clean_emacs and it deletes all files in the current working directory that end with the character ~.
