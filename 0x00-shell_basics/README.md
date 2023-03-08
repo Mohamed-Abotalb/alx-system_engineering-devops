@@ -15,3 +15,5 @@ Seventh Script is in file 6-firstdirectory and it creates a directory named my_f
 Eighth Script is in file 7-movethatfile and it moves the betty file from /tmp/ directory to /tmp/my_first_directory.
 
 Ninth Script is in file 8-firstdelete and it removes the betty file from /tmp/my_first_directory.
+
+Tenth Script is in file 9-firstdirdeletion and it removes the my_first_directory from /tmp/.
