@@ -23,3 +23,5 @@
 - Twelfth Script is in file 11-lists and it lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 
 - Thirteenth Script is in file 12-file_type and it prints the type of the file named iamafile which is in /tmp directory.
+
+- Fourteenth Script is in file 13-symbolic_link and it creates a symbolic link to /bin/ls, named __ls__ and it is created in the current working directory.
