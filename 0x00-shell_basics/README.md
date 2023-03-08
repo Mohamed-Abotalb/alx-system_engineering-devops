@@ -11,3 +11,5 @@ Fifth Script is in file 4-listmorefiles and it displays currect directory conten
 Sixth Script is in file 5-listfilesdigitonly and it displays current directory content with the hidden files in a long format with user and goup ids displayes numerically.
 
 Seventh Script is in file 6-firstdirectory and it creates a directory named my_first_directory in /tmp/ directory.
+
+Eighth Script is in file 7-movethatfile and it moves the betty file from /tmp/ directory to /tmp/my_first_directory.
