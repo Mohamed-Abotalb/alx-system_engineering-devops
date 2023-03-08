@@ -25,3 +25,5 @@
 - Thirteenth Script is in file 12-file_type and it prints the type of the file named iamafile which is in /tmp directory.
 
 - Fourteenth Script is in file 13-symbolic_link and it creates a symbolic link to /bin/ls, named __ls__ and it is created in the current working directory.
+
+- Fifteenth Script is in file 14-copy_html and it copies all the HTML files from the current working directory to the parent of the working directory.
