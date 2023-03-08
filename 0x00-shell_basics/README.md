@@ -33,3 +33,5 @@
 - First Script is in file 100-lets_move and it moves all files beginning with an uppercase letter to the directory /tmp/u.
 
 - Second Script is in file 101-clean_emacs and it deletes all files in the current working directory that end with the character ~.
+
+- Third Script is in file 102-tree and it creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
