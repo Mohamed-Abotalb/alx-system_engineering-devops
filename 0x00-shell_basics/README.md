@@ -37,3 +37,5 @@
 - Third Script is in file 102-tree and it creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 
 - Fourth Script is in file 103-commas and it lists all the files and directories of the current directory, separated by commas (,).
+
+- The latest part of the task is about creating a school.mgc file
