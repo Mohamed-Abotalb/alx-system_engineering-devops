@@ -18,3 +18,5 @@
 - Ninth Script is in file 8-James_Bond and it makes the owner and owner group have no permissions and the others have rights to do anything with the file hello.
 
 - Tenth Script is in file 9-John_Doe and it add execution permission to all users but remove read permission from the others to the file hello.
+
+- Eleventh Script is in file 10-mirror_permissions and it allows the others to only read the file hello.
