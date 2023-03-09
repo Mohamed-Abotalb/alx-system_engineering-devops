@@ -6,3 +6,5 @@
 - Third Script is in file 2-groups and it prints all the groups the current user is part of.
 
 - Fourth Script is in file 3-new_owner and it changes the owner of the file hello to the user betty.
+
+- Fifth Script is in file 4-empty and it creates an empty file called hello.
