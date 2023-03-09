@@ -14,3 +14,5 @@
 - Seventh Script is in file 6-multiple_permissions and it adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 
 - Eighth Script is in file 7-everybody and it adds execution permission to the owner, the group owner and the other users, to the file hello.
+
+- Ninth Script is in file 8-James_Bond and it makes the owner and owner group have no permissions and the others have rights to do anything with the file hello.
