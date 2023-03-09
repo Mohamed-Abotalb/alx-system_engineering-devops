@@ -10,3 +10,5 @@
 - Fifth Script is in file 4-empty and it creates an empty file called hello.
 
 - Sixth Script is in file 5-execute and it adds execute permission to the owner of the file hello.
+
+- Seventh Script is in file 6-multiple_permissions and it adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
