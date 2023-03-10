@@ -24,3 +24,5 @@
 - Twelfth Script is in file 11-directories-permissions and it adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 
 - Thirteenth Script is in file 12-directory_permissions and it creates a directory called my_dir with permissions 751 in the working directory.
+
+- Fourteenth Script is in file 13-change_group and it changes the group owner to school for the file hello.
