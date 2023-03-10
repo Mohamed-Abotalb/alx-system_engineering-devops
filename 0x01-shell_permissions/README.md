@@ -19,4 +19,6 @@
 
 - Tenth Script is in file 9-John_Doe and it add execution permission to all users but remove read permission from the others to the file hello.
 
-- Eleventh Script is in file 10-mirror_permissions and it allows the others to only read the file hello.
+- Eleventh Script is in file 10-mirror_permissions and it makes the mode of file hello the same as the file olleh.
+
+- Twelfth Script is in file 11-directories-permissions and it adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
