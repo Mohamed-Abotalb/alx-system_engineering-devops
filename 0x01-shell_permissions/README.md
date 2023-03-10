@@ -29,3 +29,5 @@
 
 ## Advanced Parts of the Task
 - First Scirpt is in file 100-change_owner_and_group and it changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+
+- Second Script is in file 101-symbolic_link_permissions and it changes the owner and the group owner of _hello to vincent and staff respectively.
