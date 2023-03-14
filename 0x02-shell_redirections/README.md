@@ -44,3 +44,12 @@
 - Twenty-second Script is in file 21-reverse and it reverse its input.
 
 - Twenty-third Script is in file 22-users_and_homes and it displays all users and their home directories, sorted by users.
+
+## Advanced Parts of the Task
+- First Script is in file 100-empty_casks and it finds and displays all empty files and directories in the current directory and all sub-directories.
+
+- Second Script is in file 101-gifs and it lists all the files with a .gif extension in the current directory and all its sub-directories.
+
+- Third Script is in file 102-acrostic and it decodes acrostics that use the first letter of each line.
+
+- Fourth Script is in file 103-the_biggest_fan and it parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
